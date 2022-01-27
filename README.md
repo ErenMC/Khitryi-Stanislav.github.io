@@ -1,2 +1,2 @@
-# Khityi-Stanislav.github.io
+#  Хитрый Станислав
 Первый сайт
